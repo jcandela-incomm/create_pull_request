@@ -1,4 +1,4 @@
-### Setting up and using the Python script for creating a pull request
+## Setting up and using the Python script for creating a pull request
 
 #### Prerequisites
 - Python installed on your system (version 3.6 or later). Download and install from https://www.python.org/downloads/
