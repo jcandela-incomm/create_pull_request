@@ -14,22 +14,24 @@
 powershell
 
 
-`cd path\to\your\repo` 
+```
+cd path\to\your\repo
+```
 
 - Verify your system's PATH: Ensure that Python, Git, and GitHub CLI are in your system's PATH. To do this, run the following commands in PowerShell:
 
-`
-powershell
-python --version git --version gh --version`
+```powershell
+python --version git --version gh --version
+```
 
 - If any of the commands fail, please refer to the respective installation guides to make sure the tools are properly installed and added to your system's PATH.
 
 5. Execute the script: To run the Python script from PowerShell, use the following command, replacing path\to\create_pull_request.py with the actual path to the script file:
 
-`
-powershell
+```powershell
 
-python path\to\create_pull_request.py`
+python path\to\create_pull_request.py
+```
 
 6. Enter the feature branch name: When prompted, enter the feature branch name (e.g., feature/123456-changeajob) and press Enter.
 
@@ -42,5 +44,5 @@ python path\to\create_pull_request.py`
 
 #### Troubleshooting
 
--If you encounter any issues while following this runbook, please review the respective installation guides and ensure that Python, Git, and GitHub CLI are properly installed and configured on your system. Additionally, double-check the variable values in the Python script to ensure they are set correctly for your project.
+- If you encounter any issues while following this runbook, please review the respective installation guides and ensure that Python, Git, and GitHub CLI are properly installed and configured on your system. Additionally, double-check the variable values in the Python script to ensure they are set correctly for your project.
 - If you still face issues, consider providing the error messages or a detailed description of the problem to help identify potential solutions.
