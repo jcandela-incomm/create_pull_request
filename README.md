@@ -22,7 +22,9 @@ cd path\to\your\repo
   - If any of the commands fail, please refer to the respective installation guides to make sure the tools are properly installed and added to your system's PATH.
 
 ```powershell
-python --version git --version gh --version
+python --version
+git --version
+gh --version
 ```
 
 
