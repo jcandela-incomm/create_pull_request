@@ -19,12 +19,13 @@ cd path\to\your\repo
 ```
 
 - Verify your system's PATH: Ensure that Python, Git, and GitHub CLI are in your system's PATH. To do this, run the following commands in PowerShell:
+  - If any of the commands fail, please refer to the respective installation guides to make sure the tools are properly installed and added to your system's PATH.
 
 ```powershell
 python --version git --version gh --version
 ```
 
-- If any of the commands fail, please refer to the respective installation guides to make sure the tools are properly installed and added to your system's PATH.
+
 
 5. Execute the script: To run the Python script from PowerShell, use the following command, replacing path\to\create_pull_request.py with the actual path to the script file:
 
