@@ -15,7 +15,7 @@ powershell
 
 
 ```
-cd path\to\your\repo
+cd C:\path\to\repo
 ```
 
 - Verify your system's PATH: Ensure that Python, Git, and GitHub CLI are in your system's PATH. To do this, run the following commands in PowerShell:
