@@ -22,7 +22,7 @@ cd C:\path\to\repo
   - If any of the commands fail, please refer to the respective installation guides to make sure the tools are properly installed and added to your system's PATH.
 
 ```powershell
-python --version
+py --version
 git --version
 gh --version
 ```
@@ -33,7 +33,7 @@ gh --version
 
 ```powershell
 
-python path\to\create_pull_request.py
+py path\to\create_pull_request.py
 ```
 
 6. Enter the feature branch name: When prompted, enter the feature branch name (e.g., feature/123456-changeajob) and press Enter.
