@@ -43,9 +43,8 @@ py path\to\create_pull_request.py
 8. Make your changes: After pulling the latest changes from the remote repository, the script will pause. Make the required changes to your repository files.
 
 9. Continue the script: Once you have made your changes, return to the PowerShell window and press Enter to continue executing the script. The script will create the feature branch, commit your changes, push the feature branch to the remote repository, and create a pull request using the GitHub CLI.
-10. Verify the pull request: After the script completes, verify that the pull request was successfully created on your project's GitHub repository.
+10. Verify the pull request
 
 #### Troubleshooting
 
 - If you encounter any issues while following this runbook, please review the respective installation guides and ensure that Python, Git, and GitHub CLI are properly installed and configured on your system. Additionally, double-check the variable values in the Python script to ensure they are set correctly for your project.
-- If you still face issues, consider providing the error messages or a detailed description of the problem to help identify potential solutions.
