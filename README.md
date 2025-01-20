@@ -7,10 +7,10 @@
 
 #### Steps
 
-1. Save the Python script: Copy the Python script provided and save it as a file named create_pull_request.py in a convenient location on your system.
-2. Configure the script: Open the create_pull_request.py file in a text editor and update the remote_repo and base_branch variables with the appropriate values for your project.
-3. Open PowerShell: Press the Windows key, type 'PowerShell', and press Enter to open a new PowerShell window.
-4. Navigate to the repository directory: In the PowerShell window, navigate to the directory where your Git repository is located using the cd command. For example:
+1. Copy the Python script provided and save it as a file named create_pull_request.py in a convenient location on your system.
+2. Open the create_pull_request.py file in a text editor and update the remote_repo and base_branch variables with the appropriate values for your project.
+3. Open PowerShell
+4. In the PowerShell window, navigate to the directory where your Git repository is located using the cd command. For example:
 powershell
 
 
